@@ -1,22 +1,24 @@
 {
-  "name": "com.actioncode.[packagename]",
-  "displayName": "ActionCode-[PackageName]",
+  "name": "com.actioncode.searchable-popup",
+  "displayName": "ActionCode-Searchable Popup",
   "version": "0.1.0",
   "unity": "2019.3",
-  "description": "This package contains [...].",
+  "description": "Searchable popups for your Inspector window fields.",
   "keywords": [
-    "",
-    ""
+    "Popup",
+    "Search",
+    "Attributes"
   ],
+  "category": "Tools",
   "dependencies": {},
   "license": "MIT",
-  "homepage": "https://github.com/HyagoOliveira/[PACKAGE]#readme",
+  "homepage": "https://github.com/HyagoOliveira/SearchablePopup#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HyagoOliveira/[PACKAGE].git"
+    "url": "https://github.com/HyagoOliveira/SearchablePopup.git"
   },
-  "documentationUrl": "https://github.com/HyagoOliveira/[PACKAGE]#readme",
-  "changelogUrl": "https://github.com/HyagoOliveira/[PACKAGE]/CHANGELOG.md",
+  "documentationUrl": "https://github.com/HyagoOliveira/SearchablePopup#readme",
+  "changelogUrl": "https://github.com/HyagoOliveira/SearchablePopup/CHANGELOG.md",
   "author": {
     "name": "Hyago Oliveira",
     "email": "hyagogow@gmail.com"
