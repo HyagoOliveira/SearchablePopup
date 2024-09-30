@@ -23,7 +23,7 @@ using ActionCode.SearchablePopup;
 
 public class TestSearchPopup : MonoBehaviour
 {
-	[Tooltip("Select a fruit.")]
+    [Tooltip("Select a fruit.")]
     [Searchable("Açaí", "Apple", "Avocado", "Banana", "Blueberry", "Breadfruit", "Cherry", "Coconut", "Cranberry", "Egg Fruit", "Gooseberry", "Grape")]
     public string fruit = "Banana";
 
